@@ -16,9 +16,8 @@ Read `references/3ms-framework.md` once. It's how {{Your Name}} thinks about AI 
 - `/audit`: Evidence-based Four-Cs score, routing and Claude/Codex compatibility checks, and automatic dated reports in `audits/`. Compare prior findings after a meaningful fix and during regular reviews.
 - `/grill-me`: Deepen context through one-question interviews. Saves every answer to `brainstorms/`; requested context-building sessions also update relevant context pages with confirmed facts.
 - `/link`: Link a project, file, folder, or source into the right operating-manual route or index.
-- `/3d-brain`: Choose a brain name and categories, then build a local 3D knowledge globe with Cinema and interactive growth replay. Uses selected local files and the bundled app template.
 - `/level-up` — Weekly 3Ms interview. Find one automation, scope it, ship it. One per week.
-- `/marketing skills` —
+- `/marketing skills` — 45 specialized skills for copywriting, cold outreach, analytics, paid ads, SEO, social, pricing, and growth. Use when drafting marketing copy, building campaigns, prospecting, or analyzing funnels.
 
 ## Where things live
 
