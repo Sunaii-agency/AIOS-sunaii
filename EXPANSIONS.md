@@ -1,6 +1,6 @@
 # EXPANSIONS — what to add as you grow
 
-The kit ships lean on purpose: six skills and a small set of context and reference files. As you grow, use `/link` to add new sources to the right route, and `/audit` to check that the information remains findable and current.
+The kit ships lean on purpose: a small set of core skills plus optional marketing skills and context/reference files. As you grow, use `/link` to add new sources to the right route, and `/audit` to check that the information remains findable and current.
 
 The AIOS structure should look like a small, well-run business. Not a hoarder's basement.
 
@@ -16,9 +16,9 @@ The AIOS structure should look like a small, well-run business. Not a hoarder's 
 | `brainstorms/` | Saved `/grill-me` interviews; created on first use. Confirmed context is linked back to its capture. |
 | `archives/` | Old files. Don't delete — move here. |
 | `connections.md` | Registry of every system your AIOS can reach. |
-| `.claude/skills/` | Your skills: `/onboard`, `/audit`, `/level-up`, `/link`, `/grill-me`, `/3d-brain`. Add more only when they solve a real need. |
+| `.agents/skills/` | Core skills: `/onboard`, `/audit`, `/level-up`, `/link`, and `/grill-me`, plus the `marketing skills/` collection. Add more only when they solve a real need. |
 | `aios-intake.md` | Source-of-truth for `/onboard`. Edit and re-run any time. |
-| `CLAUDE.md` | Root operating manual. Filled by `/onboard`. Edit when your role/voice changes. |
+| `AGENTS.md` | Root operating manual. Filled by `/onboard`. Edit when your role/voice changes. |
 
 ---
 
@@ -59,7 +59,7 @@ Anti-patterns. These look helpful but rot the structure:
 - **Don't add `notes/`, `misc/`, `tmp/`, or `inbox/`.** Graveyards. Use `archives/` if it's old, write a real file in the right place if it's new.
 - **Don't pre-create folders you don't need yet.** Empty folders are noise. The AIOS will tell you when it's time.
 - **Don't have parallel `decisions.md` and `decisions/log.md`.** Pick one. The kit ships `decisions/log.md`.
-- **Don't fork your operating manual.** One `CLAUDE.md` at the root. Sub-OS folders can have their own scoped CLAUDE.md, but the root is canonical.
+- **Don't fork your operating manual.** One `AGENTS.md` at the root. Keep it canonical.
 
 ---
 
