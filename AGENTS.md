@@ -23,6 +23,7 @@ Read `references/3ms-framework.md` once. It's how {{Your Name}} thinks about AI 
 
 - `context/` — about you, your business, your priorities (filled by `/onboard`)
 - `references/` — frameworks, voice samples, API guides as you connect tools
+- `references/cold-outreach.md` — how to write prospect outreach and follow-ups; read before drafting any cold email
 - `connections.md` — registry of every system your AIOS can reach
 - `decisions/log.md` — append-only record of decisions and why
 - `brainstorms/` - Dated interview captures and resume points. Read relevant captures on demand; confirmed current context belongs in its canonical page.
