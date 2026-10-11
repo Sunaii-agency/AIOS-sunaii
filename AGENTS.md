@@ -19,6 +19,9 @@ Read `references/3ms-framework.md` once. It's how {{Your Name}} thinks about AI 
 - `/level-up` — Weekly 3Ms interview. Find one automation, scope it, ship it. One per week.
 - `/marketing skills` — 45 specialized skills for copywriting, cold outreach, analytics, paid ads, SEO, social, pricing, and growth. Use when drafting marketing copy, building campaigns, prospecting, or analyzing funnels. See `.agents/skills/marketing skills/CLAUDE.md` for the full skill catalog.
 
+## Playbooks
+
+
 ## Where things live
 
 - `context/` — about you, your business, your priorities (filled by `/onboard`)
