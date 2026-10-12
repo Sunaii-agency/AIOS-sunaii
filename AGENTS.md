@@ -13,14 +13,10 @@ Read `references/3ms-framework.md` once. It's how {{Your Name}} thinks about AI 
 ## Your skills
 
 - `/onboard` — already run if you're seeing this filled in. Re-run any time to refresh from an edited `aios-intake.md`.
-- `/audit`: Evidence-based Four-Cs score, routing and Claude/Codex compatibility checks, and automatic dated reports in `audits/`. Compare prior findings after a meaningful fix and during regular reviews.
+- `/audit`: Evidence-based Four-Cs score and Claude/Codex compatibility checks, with automatic dated reports in `audits/`. Compare prior findings after a meaningful fix and during regular reviews.
 - `/grill-me`: Deepen context through one-question interviews. Saves every answer to `brainstorms/`; requested context-building sessions also update relevant context pages with confirmed facts.
-- `/link`: Link a project, file, folder, or source into the right operating-manual route or index.
 - `/level-up` — Weekly 3Ms interview. Find one automation, scope it, ship it. One per week.
 - `/marketing skills` — 45 specialized skills for copywriting, cold outreach, analytics, paid ads, SEO, social, pricing, and growth. Use when drafting marketing copy, building campaigns, prospecting, or analyzing funnels. See `.agents/skills/marketing skills/CLAUDE.md` for the full skill catalog.
-
-## Playbooks
-
 
 ## Where things live
 

@@ -1,6 +1,6 @@
 # EXPANSIONS — what to add as you grow
 
-The kit ships lean on purpose: a small set of core skills plus optional marketing skills and context/reference files. As you grow, use `/link` to add new sources to the right route, and `/audit` to check that the information remains findable and current.
+The kit ships lean on purpose: a small set of core skills plus optional marketing skills and context/reference files. As you grow, use `/audit` to check that the information remains findable and current.
 
 The AIOS structure should look like a small, well-run business. Not a hoarder's basement.
 
@@ -16,7 +16,7 @@ The AIOS structure should look like a small, well-run business. Not a hoarder's 
 | `brainstorms/` | Saved `/grill-me` interviews; created on first use. Confirmed context is linked back to its capture. |
 | `archives/` | Old files. Don't delete — move here. |
 | `connections.md` | Registry of every system your AIOS can reach. |
-| `.agents/skills/` | Core skills: `/onboard`, `/audit`, `/level-up`, `/link`, and `/grill-me`, plus the `marketing skills/` collection. Add more only when they solve a real need. |
+| `.agents/skills/` | Core skills: `/onboard`, `/audit`, `/level-up`, and `/grill-me`, plus the `marketing skills/` collection. Add more only when they solve a real need. |
 | `aios-intake.md` | Source-of-truth for `/onboard`. Edit and re-run any time. |
 | `AGENTS.md` | Root operating manual. Filled by `/onboard`. Edit when your role/voice changes. |
 
@@ -69,7 +69,7 @@ Ask three questions:
 
 1. **Is this conceptually new?** Or does it fit somewhere existing?
 2. **Will I touch this 3+ times in the next month?** If not, it's premature.
-3. **Could `/level-up` route a future skill into here naturally?** If yes, the AIOS will use it. If no, you're organizing for yourself, not for the system.
+3. **Could `/level-up` naturally use this folder?** If yes, the AIOS will use it. If no, you're organizing for yourself, not for the system.
 
 Two yeses = add. One yes = wait.
 
